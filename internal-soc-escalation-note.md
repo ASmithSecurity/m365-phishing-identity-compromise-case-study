@@ -1,4 +1,4 @@
-```markdown
+
 # Internal SOC Notes
 
 > **Project Note:** This is a simulated SOC documentation file created for cybersecurity portfolio development. It does not contain real customer data, real incident logs, credentials, or private information.
