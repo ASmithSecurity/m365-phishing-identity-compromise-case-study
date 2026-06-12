@@ -62,6 +62,7 @@ The goal of the investigation is to determine whether the behavior is consistent
 | [`knowledge-base-article.md`](knowledge-base-article.md) | Mock knowledge base article for responding to Microsoft 365 phishing and mailbox compromise |
 | [`incident-flow-diagram.md`](incident-flow-diagram.md) | Text-based incident workflow diagram showing investigation and containment flow |
 | [`simulated-evidence-review.md`](simulated-evidence-review.md) | Simulated sign-in, mailbox rule, forwarding, and indicator review |
+| [`project-overview-and-takeaways.md`](project-overview-and-takeaways.md) | Employer-facing summary of project goals, key findings, containment actions, MITRE mapping, and lessons learned |
 | [`screenshots/`](screenshots/) | Folder for project screenshots and documentation previews |
 | [`notes/`](notes/) | Folder for additional investigation notes |
 | [`resources/`](resources/) | Folder for supporting resources and references |
